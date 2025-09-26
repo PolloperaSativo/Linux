@@ -10,4 +10,7 @@
 ### Versión del núcleo y arquitectura
 ![Version](/img/uname.png)
 
+### RAM y CPU
+
+
 ## Autor
