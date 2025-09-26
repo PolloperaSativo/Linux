@@ -11,6 +11,8 @@
 ![Version](/img/uname.png)
 
 ### RAM y CPU
-
+![ram](/img/ram.png)
+![proc1](/img/proc1.png)
+![proc2](/img/proc2.png)
 
 ## Autor
