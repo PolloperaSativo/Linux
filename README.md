@@ -17,4 +17,8 @@
 
 ### Discos y particiones
 ![discosparticiones](/img/discosparticiones.png)
+
+### Sistemas montados
+![sistemasmontados](/img/sistemasmontados.png)
+
 ## Autor
