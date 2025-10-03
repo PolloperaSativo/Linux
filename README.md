@@ -24,4 +24,11 @@
 ### Tamaños de una carpeta
 ![tamanocarpeta](/img/tamanocarpeta.png)
 
+### Usuarios y grupos del sistema
+![usuarios1](/img/usuarios1.png)
+![usuarios2](/img/usuarios2.png)
+![grupos1](/img/grupos1.png)
+![grupos2](/img/grupos2.png)
+![ns](/img/nsswitch.png)
+
 ## Autor
