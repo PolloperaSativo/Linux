@@ -15,4 +15,6 @@
 ![proc1](/img/proc1.png)
 ![proc2](/img/proc2.png)
 
+### Discos y particiones
+![discosparticiones](/img/discosparticiones.png)
 ## Autor
