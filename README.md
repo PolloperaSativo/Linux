@@ -21,4 +21,7 @@
 ### Sistemas montados
 ![sistemasmontados](/img/sistemasmontados.png)
 
+### Tamaños de una carpeta
+![tamanocarpeta](/img/tamanocarpeta.png)
+
 ## Autor
