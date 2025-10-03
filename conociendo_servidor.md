@@ -1,5 +1,3 @@
-# Linux
-
 ## Conociendo el servidor Linux
 ### Hostname y cambio de hostname
 ![Hostname](/img/image.png)
@@ -31,5 +29,3 @@
 ![grupos2](/img/grupos2.png)  
 ![ns](/img/nsswitch.png)
 
-
-## Autor
