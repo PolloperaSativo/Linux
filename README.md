@@ -31,4 +31,5 @@
 ![grupos2](/img/grupos2.png)  
 ![ns](/img/nsswitch.png)
 
+
 ## Autor
